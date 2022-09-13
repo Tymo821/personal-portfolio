@@ -130,6 +130,13 @@ a.active, a:hover {
 body {
     background: var(--light);
 }
+
+.spacer {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 45px;
+}
+
 .content-box {
     display: flex; 
     justify-content: center;
