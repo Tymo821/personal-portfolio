@@ -150,3 +150,36 @@ body {
     height: 500px;
     border-radius: 25px;
 }
+ul{
+    display: flex;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.project-img {
+height: 40px;
+width: 40px;
+}
+
+.project-img:hover {
+    height: 80px;
+    width: 80px;
+}
+
+/* footer */
+footer{
+    background-color: var(--dark);
+    line-height: 60px;
+    color: var(--light);
+    padding: 10px;
+}
+
+h3 { 
+    text-align: right;
+}
