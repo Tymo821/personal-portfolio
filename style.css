@@ -3,6 +3,7 @@
     padding: 0;
     margin: 0;
     list-style: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 :root {
@@ -154,11 +155,7 @@ ul{
     display: flex;
 }
 
-h1 {
-    text-align: center;
-}
-
-h2 {
+h1, h2{
     text-align: center;
 }
 
@@ -180,6 +177,6 @@ footer{
     padding: 10px;
 }
 
-h3 { 
+footer h3 { 
     text-align: right;
 }
